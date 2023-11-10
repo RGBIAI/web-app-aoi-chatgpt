@@ -9,7 +9,7 @@ import uuid from 'react-uuid';
 import { isEmpty } from "lodash-es";
 
 import styles from "./Chat.module.css";
-import Azure from "../../assets/norte_energia_logo.jpg";
+import Azure from "../../assets/norteenergia.png";
 
 import {
     ChatMessage,
